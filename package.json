@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/anikaiftikhar/gues-react-project",
+  "homepage": "https://github.com/anikaiftikhar/react-project.git",
   "name": "vite-react-starter",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-     "predeploy": "npm run build",
-     "deploy": "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "lucide-react": "^0.525.0",
